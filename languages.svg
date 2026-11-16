@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 25.558%;
+  width: 25.556%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 19.093%;
+  width: 19.092%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 12.120%;
+  width: 12.125%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
   width: 7.003%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 5.981%;
+  width: 5.980%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
   width: 5.412%;
@@ -167,7 +167,7 @@ div.ellipsis {
   width: 1.960%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 1.916%;
+  width: 1.915%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
   width: 1.633%;
@@ -307,7 +307,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">12.12%</span>
+  <span class="percent">12.13%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -611,7 +611,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
-  <span class="percent">0.13%</span>
+  <span class="percent">0.12%</span>
 </li>
 <li style="animation-delay: 3450ms;">
   <svg 
